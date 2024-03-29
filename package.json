@@ -1,7 +1,7 @@
 {
   "name": "aws-elastic-beanstalk-express-js-sample",
   "version": "1.0.0",
-  "description": "Sample Node.js (Express) app for AWS Elastic Beanstalk ,this is a test using codepipeline ,and beanstock ,and manual Approval",
+  "description": "this app for AWS Elastic Beanstalk ,this is a test using codepipeline ,and beanstock ,and manual Approval,and this is the last page you want to sea",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
